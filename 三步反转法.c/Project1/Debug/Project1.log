@@ -1,3 +1,1 @@
-﻿  源.c
-D:\code-2021\2021-10-17\Project1\Project1\源.c(18,6): warning C4013: “gets”未定义；假设外部返回 int
-  Project1.vcxproj -> D:\code-2021\2021-10-17\Project1\Debug\Project1.exe
+﻿  Project1.vcxproj -> D:\GitHub仓库\learn-C\三步反转法.c\Debug\Project1.exe
